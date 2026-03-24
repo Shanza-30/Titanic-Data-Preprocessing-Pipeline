@@ -4,8 +4,6 @@
 This project focuses on **data collection, preprocessing, and cleaning** using the famous Titanic dataset.  
 The goal is to transform raw data into a clean and structured format suitable for Machine Learning models.
 
-This task was completed as part of my **Machine Learning Internship at Spark Que Tech Solutions**.
-
 ---
 
 ## 🎯 Objectives
