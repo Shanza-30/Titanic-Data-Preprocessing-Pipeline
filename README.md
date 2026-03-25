@@ -1,8 +1,8 @@
 # 🚢 Titanic Data Preprocessing & Cleaning Project
 
 ## 📌 Overview
-This project focuses on **data collection, preprocessing, and cleaning** using the famous Titanic dataset.  
-The goal is to transform raw data into a clean and structured format suitable for Machine Learning models.
+This project is part of Task 1 at Apexcify Technologies, focusing on data collection, preprocessing, and cleaning using the famous Titanic dataset.
+The main goal is to transform raw data into a clean and structured format suitable for Machine Learning models
 
 ---
 
